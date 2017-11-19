@@ -6,7 +6,7 @@
 
 ## AndroidUI
 
-![JYTabLayout-3](http://a3.qpic.cn/psb?/V14YlNrL2eQEkW/kjnPjQO6.GPUTJo5wF0WYCHRACbFwE.gsXtQIR3EiWQ!/b/dBABAAAAAAAA&bo=VQJ.A1UCfgMCCCw!&rf=viewer_4)
+<img src="JYTabLayout.gif">
 
 配置build.gradle:
 
